@@ -7,3 +7,12 @@
 [submodule "01_get_next_line"]
 	path = 01_get_next_line
 	url = git@github.com:PapyMonkey/42_get_next_line.git
+[submodule "02_so_long"]
+	path = 02_so_long
+	url = git@github.com:PapyMonkey/42_so_long.git
+[submodule "02_pipex"]
+	path = 02_pipex
+	url = git@github.com:PapyMonkey/42_pipex.git
+[submodule "02_push_swap"]
+	path = 02_push_swap
+	url = git@github.com:PapyMonkey/42_push_swap.git
