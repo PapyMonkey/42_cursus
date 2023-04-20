@@ -1,21 +1,21 @@
 [submodule "00_libft"]
 	path = 00_libft
-	url = git@github.com:PapyMonkey/42_libft.git
+	url = https://github.com/PapyMonkey/42_libft.git
 [submodule "01_printf"]
 	path = 01_printf
-	url = git@github.com:PapyMonkey/42_printf.git
+	url = https://github.com/PapyMonkey/42_printf.git
 [submodule "01_get_next_line"]
 	path = 01_get_next_line
-	url = git@github.com:PapyMonkey/42_get_next_line.git
+	url = https://github.com/PapyMonkey/42_get_next_line.git
 [submodule "02_so_long"]
 	path = 02_so_long
-	url = git@github.com:PapyMonkey/42_so_long.git
+	url = https://github.com/PapyMonkey/42_so_long.git
 [submodule "02_pipex"]
 	path = 02_pipex
-	url = git@github.com:PapyMonkey/42_pipex.git
+	url = https://github.com/PapyMonkey/42_pipex.git
 [submodule "02_push_swap"]
 	path = 02_push_swap
-	url = git@github.com:PapyMonkey/42_push_swap.git
+	url = https://github.com/PapyMonkey/42_push_swap.git 
 [submodule "03_philosophers"]
 	path = 03_philosophers
 	url = https://github.com/PapyMonkey/42_philosophers.git
