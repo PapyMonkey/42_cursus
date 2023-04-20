@@ -16,3 +16,9 @@
 [submodule "02_push_swap"]
 	path = 02_push_swap
 	url = git@github.com:PapyMonkey/42_push_swap.git
+[submodule "03_philosophers"]
+	path = 03_philosophers
+	url = https://github.com/PapyMonkey/42_philosophers.git
+[submodule "03_minishell"]
+	path = 03_minishell
+	url = https://github.com/PapyMonkey/42_minishell.git
